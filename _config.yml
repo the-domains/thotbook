@@ -1,0 +1,28 @@
+name: thotbook
+favicon: null
+layout_spectrum: 0.6409662030637264
+typography_spectrum: 0.5726044753100723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.17811378557235003
+  lightness: 0.31109919864684343
+  saturation: 0.11333361268043518
+  rhythmicContrast: 0.37187856202945113
+purpose: []
